@@ -32,6 +32,10 @@ This platform allows multiple programmers to contribute to a shared codebase, se
 - User authentication to ensure secure collaboration.
 - Real-time data synchronization powered by robust backend services.
 
+### 🔐 **Secure and Reliable**
+- User authentication to ensure secure collaboration.
+- Real-time data synchronization powered by robust backend services.
+
 ---
 
 ## **Tech Stack**
